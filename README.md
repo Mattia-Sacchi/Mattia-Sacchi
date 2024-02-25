@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://modded.com/wp-content/uploads/sites/9/2023/06/A_high-tech_self-driving_car._Drawn_like_a_cartoon__b726ff82-f984-4868-a38c-087fd4eebd75.png))]()
+[![MasterHead]((https://modded.com/wp-content/uploads/sites/9/2023/06/A_high-tech_self-driving_car._Drawn_like_a_cartoon__b726ff82-f984-4868-a38c-087fd4eebd75.png))]()
 
 <h1 align="center">Hi 👋, I'm Mattia Sacchi</h1>
 <h3 align="center">A automotive software developer from Italy</h3>
